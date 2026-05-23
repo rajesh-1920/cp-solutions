@@ -10,7 +10,7 @@
 
 | Day 09 | Day 10 | Day 11 | Day 12 |
 | --- | --- | --- | --- |
-| [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)<br>[Games](https://codeforces.com/problemset/problem/268/A)<br>[Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)<br>[Fox And Snake](https://codeforces.com/problemset/problem/510/A)<br>[Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | TBD | TBD | TBD |
+| [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)<br>[Games](https://codeforces.com/problemset/problem/268/A)<br>[Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)<br>[Fox And Snake](https://codeforces.com/problemset/problem/510/A)<br>[Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | [YES or YES](https://codeforces.com/problemset/problem/1703/A)<br>[The New Year Meeting Friends](https://codeforces.com/problemset/problem/723/A)<br>[Sum](https://codeforces.com/problemset/problem/1742/A)<br>[Police Recruits](https://codeforces.com/problemset/problem/427/A)<br>[Amusing Joke](https://codeforces.com/problemset/problem/141/A) | TBD | TBD |
 
 | Day 13 | Day 14 | Day 15 | Day 16 |
 | --- | --- | --- | --- |
